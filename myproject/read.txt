@@ -1,6 +1,3 @@
 
-=======
 this is just for testing git
->>>>>>> 7f7007c636a448e26524fc2633009760399224eb
 u guess right
->>>>>>> 0b811c4e712ab3ec01481b7113452ad2bfdb6164
