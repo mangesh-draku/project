@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 thsi is just for testing git 
 adding new line 
+=======
+thsi is just for testing git
+u guess right
+>>>>>>> 0b811c4e712ab3ec01481b7113452ad2bfdb6164
